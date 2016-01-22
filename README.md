@@ -1,6 +1,6 @@
 # Cardboard SDK for Unity
 
-Copyright (c) 2014 Google Inc. All rights reserved.
+Copyright (c) 2016 Google Inc. All rights reserved.
 
 For first time users, see:
 [https://developers.google.com/cardboard/unity/get-started](https://developers.google.com/cardboard/unity/get-started)
